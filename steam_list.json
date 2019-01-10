@@ -1,0 +1,134 @@
+[
+	{
+		"Game_Name": "Assetto Corsa",
+		"Game_AppID": "244210"
+	},
+	{
+		"Game_Name": "Assetto Corsa Competizione",
+		"Game_AppID": "805550"
+	},
+	{
+		"Game_Name": "American Truck Simulator",
+		"Game_AppID": "270880"
+	},
+	{
+		"Game_Name": "Automobilista",
+		"Game_AppID": "431600"
+	},
+	{
+		"Game_Name": "BeamNG",
+		"Game_AppID": "284160"
+	},
+	{
+		"Game_Name": "DiRT 1",
+		"Game_AppID": "287340"
+	},
+	{
+		"Game_Name": "DiRT 2",
+		"Game_AppID": "12840"
+	},
+	{
+		"Game_Name": "DiRT 3",
+		"Game_AppID": "321040"
+	},
+	{
+		"Game_Name": "DiRT Showdown",
+		"Game_AppID": "201700"
+	},
+	{
+		"Game_Name": "DiRT Rally",
+		"Game_AppID": "310560"
+	},
+	{
+		"Game_Name": "DiRT 4",
+		"Game_AppID": "421020"
+	},
+	{
+		"Game_Name": "Euro Truck Simulator 2",
+		"Game_AppID": "227300"
+	},
+	{
+		"Game_Name": "F1 2013",
+		"Game_AppID": "223670"
+	},
+	{
+		"Game_Name": "F1 2014",
+		"Game_AppID": "226580"
+	},
+	{
+		"Game_Name": "F1 2015",
+		"Game_AppID": "286570"
+	},
+	{
+		"Game_Name": "F1 2016",
+		"Game_AppID": "391040"
+	},
+	{
+		"Game_Name": "F1 2017",
+		"Game_AppID": "515220"
+	},
+	{
+		"Game_Name": "F1 2018",
+		"Game_AppID": "737800"
+	},
+	{
+		"Game_Name": "gRally",
+		"Game_AppID": "605760"
+	},
+	{
+		"Game_Name": "iRacing",
+		"Game_AppID": "266410"
+	},
+	{
+		"Game_Name": "KartKraft",
+		"Game_AppID": "406350"
+	},
+	{
+		"Game_Name": "Kart Racing Pro",
+		"Game_AppID": "415600"
+	},
+	{
+		"Game_Name": "My Summer Car",
+		"Game_AppID": "516750"
+	},
+	{
+		"Game_Name": "Project Cars",
+		"Game_AppID": "234630"
+	},
+	{
+		"Game_Name": "Project Cars 2",
+		"Game_AppID": "378860"
+	},
+	{
+		"Game_Name": "rFactor 1",
+		"Game_AppID": "339790"
+	},
+	{
+		"Game_Name": "rFactor 2",
+		"Game_AppID": "365960"
+	},
+	{
+		"Game_Name": "RaceRoom Racing Experience",
+		"Game_AppID": "211500"
+	},
+	{
+		"Game_Name": "SimBin GT Legends",
+		"Game_AppID": "44690"
+	},
+	{
+		"Game_Name": "SimBin GTR",
+		"Game_AppID": "44600"
+	},
+	{
+		"Game_Name": "SimBin GTR 2",
+		"Game_AppID": "8790"
+	},
+	{
+		"Game_Name": "SimBin Race 07",
+		"Game_AppID": "8600"
+	},
+	{
+		"Game_Name": "Wreckfest",
+		"Game_AppID": "228380"
+	}
+]
